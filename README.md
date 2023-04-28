@@ -85,10 +85,11 @@
 &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;결정계수는 0<<1<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;1에 가까울수록 좋음 (0.935 이면 93%의 설명력을 가지고 있다)<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;파이썬에서는 r 제곱값 R^2<br/>
-&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;-단순회귀분석: 독립변수1개, 종속1개<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;-단순회귀분석: 독립변수1개, 종속1개<br/> 
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;예시: 1인당 국민 총소득 변화에 따른 운전면허소지자 수를 과학적으로 예측<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;회귀식(회귀모형): y= ax + b 꼴<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;회귀식으로 다음 값을 예측 가능<br/>
-&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;-다중회귀분석<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;-다중회귀분석: 독립변수 여러개, 종속변수 1<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;-로지스틱...<br/>
 
 
