@@ -62,3 +62,33 @@
 - KDX 한국데이터거래소
 - DataWorld(가상데이터)
 
+
+
+😀 통계 분석<br/>
+예시: KOSIS 자료, 스트레스 인지율과 자살 시도율이 서로 상관관계가 있는지 알고 싶다.<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;만약에 이 두 변수가 상관관계가 있다면 스트레스 인지율 변화에 따른 자살 시도울을 예측하고 싶다.<br/>
+      
+1. 준비단계<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;개발도구 리본을 꺼내고 -> 엑셀 추가기능 -> 분석도구 팩 (그러면 데이터 리본에 데이터 분석으로 들어옴)<br/>
+2. 산포도<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;범위잡고 삽입에 분산형 차트 내림버튼 그중에 산포도<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;추세선 추가로 수식을 차트에 표시(회귀식), R^2값 표시(결정계수)<br/>
+3. 상관분석<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;데이터 리본 -> 데이터분석에 상관분석<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;1-<상관계수<1<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;-1에 가까울수록 음의 상관관계<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;1에 가까울수록 양<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;0은 아무 관련 없음<br/>
+4. 회귀분석<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;스트레스 인지율 변화에 따른(독립변수) -> 왼쪽에 적는게 국룰<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;자살 시도율을 예측해보고 싶다(종속변수) -> 오른쪽 배치<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;결정계수는 0<<1<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;1에 가까울수록 좋음 (0.935 이면 93%의 설명력을 가지고 있다)<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;파이썬에서는 r 제곱값 R^2<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;-단순회귀분석: 독립변수1개, 종속1개<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;회귀식(회귀모형): y= ax + b 꼴<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;회귀식으로 다음 값을 예측 가능<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;-다중회귀분석<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;-로지스틱...<br/>
+
+
