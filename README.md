@@ -5,6 +5,8 @@
 <img src="https://img.shields.io/badge/Excel&nbsp;VBA-217346?style=for-the-badge&logo=Microsoft&logoColor=white">
 <br/>
 
+_Ch0. Why VBA?_<br/>
+<br/>
 😀 데이터 분석이 왜 중요한가?
 데이터 분석을 통해 인사이트 도출 -> 기업 가치창출, 의사결정
 - 양질의 데이터 플랫폼 다수 등장
@@ -93,3 +95,8 @@
 &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;-로지스틱...<br/>
 
 
+
+[Ch1_PowerQuery](https://github.com/Yeom-Suji/Excel-VBA/blob/main/Ch1_PowerQuery)
+[Ch2_Union&Join](https://github.com/Yeom-Suji/Excel-VBA/blob/main/Ch2_Union%26Join)
+[Ch3_DataVisualization](https://github.com/Yeom-Suji/Excel-VBA/blob/main/Ch3_DataVisualization)
+[Ch4_VBAMacros](https://github.com/Yeom-Suji/Excel-VBA/blob/main/Ch4_VBAMacros)
