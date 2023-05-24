@@ -38,11 +38,14 @@ Ex)<br/>
 
 
 <br/>
-You can check the details by downloading each files.
+_You can check the details by downloading each files._
 <br/>
 <br/>
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 _Ch0. Why VBA?_<br/>
 <br/>
