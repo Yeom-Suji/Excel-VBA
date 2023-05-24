@@ -6,7 +6,7 @@
 <br/>
 
 
-Data Visualization_Prac1.xlsm<br/>
+**Data Visualization_Prac1.xlsm**<br/>
 <br/>
 Ex)<br/>
 
@@ -16,7 +16,7 @@ Ex)<br/>
 <br/>
 <br/>
 
-Data Visualization_Prac2.xlsm
+**Data Visualization_Prac2.xlsm**<br/>
 <br/>
 Ex)<br/>
 
@@ -28,7 +28,7 @@ Ex)<br/>
 <br/>
 <br/>
 
-Data Visualization_Prac3.xlsm
+**Data Visualization_Prac3.xlsm**<br/>
 <br/>
 Ex)<br/>
 
@@ -36,7 +36,9 @@ Ex)<br/>
 
 ![image](https://github.com/Yeom-Suji/Excel-VBA/assets/127907081/4c8d3078-41ae-4d4a-8e6e-4263d03010f7)
 
+
 <br/>
+You can check the details by downloading each files.
 <br/>
 <br/>
 
