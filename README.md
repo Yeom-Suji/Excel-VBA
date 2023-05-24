@@ -5,6 +5,43 @@
 <img src="https://img.shields.io/badge/Excel&nbsp;VBA-217346?style=for-the-badge&logo=Microsoft&logoColor=white">
 <br/>
 
+
+Data Visualization_Prac1.xlsm<br/>
+<br/>
+Ex)<br/>
+
+![image](https://github.com/Yeom-Suji/Excel-VBA/assets/127907081/6d1de000-9e1d-4686-b826-131467ec9026)
+
+<br/>
+<br/>
+<br/>
+
+Data Visualization_Prac2.xlsm
+<br/>
+Ex)<br/>
+
+![image](https://github.com/Yeom-Suji/Excel-VBA/assets/127907081/f4c6fdd3-7363-44ed-80d8-d9c9924d3210)
+
+![image](https://github.com/Yeom-Suji/Excel-VBA/assets/127907081/24c870b2-0998-4e33-98be-c71e24b894c2)
+
+<br/>
+<br/>
+<br/>
+
+Data Visualization_Prac3.xlsm
+<br/>
+Ex)<br/>
+
+![image](https://github.com/Yeom-Suji/Excel-VBA/assets/127907081/6543e6b1-f82e-4db9-a7d8-340c2b7ff32f)
+
+![image](https://github.com/Yeom-Suji/Excel-VBA/assets/127907081/4c8d3078-41ae-4d4a-8e6e-4263d03010f7)
+
+<br/>
+<br/>
+<br/>
+
+
+
 _Ch0. Why VBA?_<br/>
 <br/>
 😀 데이터 분석이 왜 중요한가?
